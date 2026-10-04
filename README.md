@@ -4,6 +4,10 @@ Lets Claude Code drive Windows desktop apps: open them, click, type, press keys,
 
 Like in Codex, each app needs your approval, here shown in Claude Code's own permission prompt.
 
+Claude computes 12 × 12 in Calculator, then draws itself in Paint (sped up):
+
+https://github.com/user-attachments/assets/fee1a21e-cf79-4bd9-9f57-ccdafef576cf
+
 > Unofficial. It reuses Codex's bundled computer-use runtime, so a Codex update could break it.
 
 ## Requirements
